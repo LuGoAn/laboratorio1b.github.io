@@ -1,1 +1,1 @@
-# http://laboratorio1b.github.io
+# https://lugoan.github.io/laboratorio1b.github.io/
