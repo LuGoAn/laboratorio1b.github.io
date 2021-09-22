@@ -1,0 +1,42 @@
+iframe.cabecalho {
+    position:fixed;
+    height:15%;
+    width:100%;
+    top:0px;
+    left:0px;
+    right:0px;
+    border:none;
+}
+img.cabecalho {
+    width:350px;
+}
+iframe.menu {
+    position:fixed;
+    height:85%;
+    width:20%;
+    left:0px;
+    bottom:0px;
+    border:none;
+}
+img.menu{
+    width:150px;
+}
+a.menu {
+    top:1000px;
+    color:white;
+    font-size:30px;
+    font-family: monospace;
+    text-decoration:none;
+    transition:0.5s;
+}
+a.menu:hover {
+    color:rgb(252, 144, 4);
+}
+iframe.conteudo {
+    position:fixed;
+    height:85%;
+    width:80%;
+    bottom:0px;
+    right:0px;
+    border:none;
+}
